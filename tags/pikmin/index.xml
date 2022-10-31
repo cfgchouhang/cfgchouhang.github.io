@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>pikmin on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/pikmin/</link>
+    <description>Recent content in pikmin on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sun, 11 Oct 2020 02:21:13 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/pikmin/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] 皮克敏系列介紹</title>
+        <link>https://cfg.meowdev.tw/pikmins_review/</link>
+        <pubDate>Sun, 11 Oct 2020 02:21:13 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 11 Oct 2020 02:21:13 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/pikmins_review/</guid>
+        <description>最近任天堂釋出移植siwtch 的三代體驗版，推薦大家玩玩看這款遊戲。趁著這機會，寫一篇系列介紹文。 另外強烈建議，switch 的操作要打開體感</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/pikmin/cover.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>siwtch</category>
+            
+          
+            
+              <category>pikmin</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>siwtch</category>
+            
+          
+            
+              <category>pikmin</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>[心得] 可愛又殘忍的皮克敏3</title>
+        <link>https://cfg.meowdev.tw/pikmin3_review/</link>
+        <pubDate>Wed, 12 Oct 2016 10:59:28 +0000</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Wed, 12 Oct 2016 10:59:28 +0000</atom:modified>
+        <guid>https://cfg.meowdev.tw/pikmin3_review/</guid>
+        <description>冷門神作，皮克敏，隔13年的第三代！ 簡述 皮克敏3 是一款表面溫馨可愛，實則殘忍且重策略的遊戲。遊戲裡的皮克敏(Pikmin)是指生活在非地球上</description>
+        
+        <dc:creator>Peter</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/2016/10/1371162069-pikminartwork.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+            
+              <category>pikmin</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+            
+              <category>pikmin</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

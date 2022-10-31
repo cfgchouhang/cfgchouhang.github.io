@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>社交 on P宅</title>
+    <link>https://cfg.meowdev.tw/categories/%E7%A4%BE%E4%BA%A4/</link>
+    <description>Recent content in 社交 on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sun, 16 Oct 2016 21:18:08 +0000</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/categories/%E7%A4%BE%E4%BA%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[雜記]一個憤怒DCARD宅最討厭的幾種人</title>
+        <link>https://cfg.meowdev.tw/dcard_idiots/</link>
+        <pubDate>Sun, 16 Oct 2016 21:18:08 +0000</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 16 Oct 2016 21:18:08 +0000</atom:modified>
+        <guid>https://cfg.meowdev.tw/dcard_idiots/</guid>
+        <description>此文帶有強烈主觀意識，諸多批判歧視和不雅言語的憤世嫉俗文。慎入XD 前言 Dcard是目前大學生最火紅的社交平台，主要特色為每天半夜12點，會隨</description>
+        
+        <dc:creator>Peter</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>社交</category>
+            
+          
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>社交</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

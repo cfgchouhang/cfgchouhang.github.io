@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>dk on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/dk/</link>
+    <description>Recent content in dk on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sat, 11 Jan 2020 16:16:12 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/dk/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] 冷門神作：大金剛 熱帶急凍 (Donkey Kong: Tropical Freeze)</title>
+        <link>https://cfg.meowdev.tw/dk_tropical_freeze_review/</link>
+        <pubDate>Sat, 11 Jan 2020 16:16:12 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 11 Jan 2020 16:16:12 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/dk_tropical_freeze_review/</guid>
+        <description>簡介 大金剛是超任時期就有的遊戲，那時就以優異的畫面聞名，並且有著自己的世界觀，除了大金剛，還有許多其他配角跟他的死對頭，King.K.Roo</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/dkc/cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>siwtch</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+            
+              <category>dk</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>siwtch</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+            
+              <category>dk</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>金控 on P宅</title>
+    <link>https://cfg.meowdev.tw/categories/%E9%87%91%E6%8E%A7/</link>
+    <description>Recent content in 金控 on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sat, 05 Sep 2020 23:30:06 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/categories/%E9%87%91%E6%8E%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[股票] 金控股筆記</title>
+        <link>https://cfg.meowdev.tw/stock_bank/</link>
+        <pubDate>Sat, 05 Sep 2020 23:30:06 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 05 Sep 2020 23:30:06 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/stock_bank/</guid>
+        <description>受疫情影響，全世界持續低利率，一路被唱衰獲利衰退的金控股，其實自 2008 金融海嘯以來的低利時代時不時都有獲利創新高的表現。代表金融行業也不是吃素的</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>股票</category>
+            
+          
+            
+              <category>金控</category>
+            
+          
+            
+              <category>投資</category>
+            
+          
+        
+        
+          
+            
+              <category>股票</category>
+            
+          
+            
+              <category>金控</category>
+            
+          
+            
+              <category>投資</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

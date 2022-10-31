@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>zelda on P宅</title>
+    <link>https://cfg.meowdev.tw/categories/zelda/</link>
+    <description>Recent content in zelda on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2016 07:26:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/categories/zelda/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] 薩爾達傳說 天空之劍(禦天之劍)</title>
+        <link>https://cfg.meowdev.tw/zelda_skywardsword_review/</link>
+        <pubDate>Mon, 03 Oct 2016 07:26:00 +0000</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Mon, 03 Oct 2016 07:26:00 +0000</atom:modified>
+        <guid>https://cfg.meowdev.tw/zelda_skywardsword_review/</guid>
+        <description>2021 更新：移植版推薦 雖然不意外天劍會移到 Switch，但還是很期待能玩到中文化的本作，而且看宣傳影片，畫質提升了不少，與馬力歐 3D 合集那種坑錢的</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/skyward_sword/cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>zelda</category>
+            
+          
+            
+              <category>wii</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>zelda</category>
+            
+          
+            
+              <category>wii</category>
+            
+          
+            
+              <category>nintendo</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

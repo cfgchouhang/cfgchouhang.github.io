@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>linux on P宅</title>
+    <link>https://cfg.meowdev.tw/categories/linux/</link>
+    <description>Recent content in linux on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Tue, 28 Feb 2017 23:25:35 +0000</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[Note] 調整圖片明暗對比度</title>
+        <link>https://cfg.meowdev.tw/note_convert/</link>
+        <pubDate>Tue, 28 Feb 2017 23:25:35 +0000</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Tue, 28 Feb 2017 23:25:35 +0000</atom:modified>
+        <guid>https://cfg.meowdev.tw/note_convert/</guid>
+        <description>利用open source的ImageMagick package裡的convert指令 convert -brightness-contrast 25x35 sourceImage resultImage 參數部份，提高亮度25，提高對比35，參數範圍</description>
+        
+        <dc:creator>Peter</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>note</category>
+            
+          
+            
+              <category>image_tool</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>note</category>
+            
+          
+            
+              <category>image_tool</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>[Note] 寫C時，好用的debug tool - GDB</title>
+        <link>https://cfg.meowdev.tw/note_gdb/</link>
+        <pubDate>Thu, 17 Nov 2016 06:48:15 +0000</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 17 Nov 2016 06:48:15 +0000</atom:modified>
+        <guid>https://cfg.meowdev.tw/note_gdb/</guid>
+        <description>寫C的時候，發生錯誤或結果不如預期，最常用的debug方式是在程式碼的不同區塊安插print，檢查執行時，各階段的程式狀態正確與否。但是當遇</description>
+        
+        <dc:creator>Peter</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>note</category>
+            
+          
+            
+              <category>c</category>
+            
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>note</category>
+            
+          
+            
+              <category>c</category>
+            
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

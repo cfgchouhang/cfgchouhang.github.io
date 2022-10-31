@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>存股 on P宅</title>
+    <link>https://cfg.meowdev.tw/categories/%E5%AD%98%E8%82%A1/</link>
+    <description>Recent content in 存股 on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sat, 05 Sep 2020 23:54:49 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/categories/%E5%AD%98%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[股票] 聯華 1229 穩健獲利的集團股</title>
+        <link>https://cfg.meowdev.tw/stock_1229/</link>
+        <pubDate>Sat, 05 Sep 2020 23:54:49 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 05 Sep 2020 23:54:49 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/stock_1229/</guid>
+        <description>本來是台灣龍頭麵粉公司，歷年轉投資到其他領域，形成聯華神通集團，而聯華變成集團控股母公司。 主要獲利來源有五大塊 麵粉：食品原料，獲利穩定，隨國</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>股票</category>
+            
+          
+            
+              <category>存股</category>
+            
+          
+            
+              <category>投資</category>
+            
+          
+            
+              <category>集團股</category>
+            
+          
+        
+        
+          
+            
+              <category>股票</category>
+            
+          
+            
+              <category>存股</category>
+            
+          
+            
+              <category>投資</category>
+            
+          
+            
+              <category>集團股</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

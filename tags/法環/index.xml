@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>法環 on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/%E6%B3%95%E7%92%B0/</link>
+    <description>Recent content in 法環 on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sun, 01 May 2022 16:25:15 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/%E6%B3%95%E7%92%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得]艾爾登法環，動作打鬥與迷宮探險神作</title>
+        <link>https://cfg.meowdev.tw/elden_ring_review/</link>
+        <pubDate>Sun, 01 May 2022 16:25:15 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 01 May 2022 16:25:15 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/elden_ring_review/</guid>
+        <description>艾爾登法環是繼曠野之息與空洞騎士後，又一款讓我玩到廢寢忘食的神作。發售後，平日下班、週末整天都在玩，共花了一百七十多個小時，踏遍遊戲中主要的</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/elden_ring/26.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>法環</category>
+            
+          
+            
+              <category>ps4</category>
+            
+          
+            
+              <category>魂類</category>
+            
+          
+            
+              <category>心得</category>
+            
+          
+        
+        
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>法環</category>
+            
+          
+            
+              <category>ps4</category>
+            
+          
+            
+              <category>魂類</category>
+            
+          
+            
+              <category>心得</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
