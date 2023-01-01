@@ -2,28 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/game_manual_talk/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/mario_kart_8dx_review/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/mario_kart/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/game_manual_talk/</loc>
     <lastmod>2022-07-23T01:03:59+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/gamecube/</loc>
     <lastmod>2022-07-23T01:03:59+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/n64/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
     <lastmod>2022-07-23T01:03:59+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E6%94%B6%E8%97%8F/</loc>
@@ -35,12 +62,6 @@
     <loc>https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/</loc>
     <lastmod>2022-07-23T01:03:59+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/elden_ring_review/</loc>
     <lastmod>2022-05-01T16:25:15+08:00</lastmod>
   </url><url>
@@ -48,12 +69,6 @@
     <lastmod>2022-05-01T16:25:15+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/ps4/</loc>
-    <lastmod>2022-05-01T16:25:15+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2022-05-01T16:25:15+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-05-01T16:25:15+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E6%B3%95%E7%92%B0/</loc>
@@ -107,9 +122,6 @@
     <loc>https://cfg.meowdev.tw/ds_review/</loc>
     <lastmod>2021-06-28T02:03:27+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2021-06-28T02:03:27+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/zeldas_review/</loc>
     <lastmod>2021-05-21T13:00:00+08:00</lastmod>
   </url><url>
@@ -146,9 +158,6 @@
     <loc>https://cfg.meowdev.tw/mario_sunshine_review/</loc>
     <lastmod>2020-11-01T00:54:35+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
-    <lastmod>2020-11-01T00:54:35+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/categories/mario/</loc>
     <lastmod>2020-11-01T00:54:35+08:00</lastmod>
   </url><url>
@@ -165,12 +174,6 @@
     <lastmod>2020-10-11T02:21:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
-    <lastmod>2020-10-11T02:21:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/siwtch/</loc>
-    <lastmod>2020-10-11T02:21:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/siwtch/</loc>
     <lastmod>2020-10-11T02:21:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/a_short_hike_review/</loc>

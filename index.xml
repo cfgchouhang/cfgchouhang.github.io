@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 23 Jul 2022 01:03:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2022 02:10:20 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,64 @@
       
       
 
+      
+      <item>
+        <title>[心得] 瑪利歐賽車 8 豪華版 雜談與賽道分享</title>
+        <link>https://cfg.meowdev.tw/mario_kart_8dx_review/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Fri, 30 Dec 2022 02:10:20 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/mario_kart_8dx_review/</guid>
+        <description>豪華版是從 wiiu 的八代，增添與改動一些內容後移植到 switch，是目前平台上銷量最高的遊戲(4800多萬)。從 2017 發售入手後，就一直屬於那種偶爾開</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/mk8xd/9.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>mario</category>
+            
+          
+            
+              <category>mario_kart</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>mario_kart</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[雜記] 收藏的樂趣之一：遊戲包裝與手冊</title>
@@ -575,7 +633,7 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         <atom:modified>Sun, 11 Oct 2020 02:21:13 +0800</atom:modified>
         <guid>https://cfg.meowdev.tw/pikmins_review/</guid>
-        <description>最近任天堂釋出移植siwtch 的三代體驗版，推薦大家玩玩看這款遊戲。趁著這機會，寫一篇系列介紹文。 另外強烈建議，switch 的操作要打開體感</description>
+        <description>最近任天堂釋出移植switch 的三代體驗版，推薦大家玩玩看這款遊戲。趁著這機會，寫一篇系列介紹文。 另外強烈建議，switch 的操作要打開體感</description>
         
         <dc:creator>Pnerd</dc:creator>
         <media:content url="https://cfg.meowdev.tw//images/pikmin/cover.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -592,7 +650,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             
@@ -611,7 +669,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             
@@ -646,7 +704,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             
@@ -665,7 +723,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             
@@ -770,7 +828,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             
@@ -797,7 +855,7 @@
             
           
             
-              <category>siwtch</category>
+              <category>switch</category>
             
           
             

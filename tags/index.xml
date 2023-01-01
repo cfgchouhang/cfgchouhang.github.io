@@ -13,11 +13,101 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 23 Jul 2022 01:03:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2022 02:10:20 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>mario</title>
+        <link>https://cfg.meowdev.tw/tags/mario/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/mario/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mario_kart</title>
+        <link>https://cfg.meowdev.tw/tags/mario_kart/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/mario_kart/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>switch</title>
+        <link>https://cfg.meowdev.tw/tags/switch/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/switch/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>gamecube</title>
@@ -44,24 +134,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/n64/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>switch</title>
-        <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Sat, 23 Jul 2022 01:03:59 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/switch/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -110,48 +182,12 @@
       </item>
       
       <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sat, 23 Jul 2022 01:03:59 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>ps4</title>
         <link>https://cfg.meowdev.tw/tags/ps4/</link>
         <pubDate>Sun, 01 May 2022 16:25:15 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/ps4/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sun, 01 May 2022 16:25:15 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -398,24 +434,6 @@
       </item>
       
       <item>
-        <title>mario</title>
-        <link>https://cfg.meowdev.tw/tags/mario/</link>
-        <pubDate>Sun, 01 Nov 2020 00:54:35 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/mario/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>nintendo</title>
         <link>https://cfg.meowdev.tw/tags/nintendo/</link>
         <pubDate>Sun, 01 Nov 2020 00:54:35 +0800</pubDate>
@@ -440,24 +458,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/pikmin/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>siwtch</title>
-        <link>https://cfg.meowdev.tw/tags/siwtch/</link>
-        <pubDate>Sun, 11 Oct 2020 02:21:13 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/siwtch/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
