@@ -13,11 +13,83 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 25 Feb 2023 16:47:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2023 23:04:31 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>jrpg</title>
+        <link>https://cfg.meowdev.tw/tags/jrpg/</link>
+        <pubDate>Mon, 20 Mar 2023 23:04:31 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/jrpg/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>switch</title>
+        <link>https://cfg.meowdev.tw/tags/switch/</link>
+        <pubDate>Mon, 20 Mar 2023 23:04:31 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/switch/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Mon, 20 Mar 2023 23:04:31 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Mon, 20 Mar 2023 23:04:31 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>action</title>
@@ -62,60 +134,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/metroid/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>switch</title>
-        <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Sat, 25 Feb 2023 16:47:14 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/switch/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sat, 25 Feb 2023 16:47:14 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sat, 25 Feb 2023 16:47:14 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
