@@ -1070,13 +1070,13 @@
       </item>
       
       <item>
-        <title>[心得] 2D探索的空洞神作 Hollow Knight</title>
+        <title>[心得] 令人沉浸的 2D 探索，好玩又很難的空洞騎士(Hollow Knight)</title>
         <link>https://cfg.meowdev.tw/review_hollow_knight/</link>
         <pubDate>Thu, 13 Sep 2018 08:15:55 +0000</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         <atom:modified>Thu, 13 Sep 2018 08:15:55 +0000</atom:modified>
         <guid>https://cfg.meowdev.tw/review_hollow_knight/</guid>
-        <description>以蟲與巢為設定背景，故事引人入勝，簡單流暢的操作與系統，難度破表的2D metroidvania神作。 簡述 這是我入手switch後，除了薩爾達</description>
+        <description>簡述 空洞騎士是一款 2D 探索動作遊戲。地圖設計很優秀，激發探索欲和迷路感；以蟲與巢為設定，故事引人入勝；操作手感流暢，Boss 動作豐富，挑戰性十</description>
         
         <dc:creator>Peter</dc:creator>
         <media:content url="https://cfg.meowdev.tw//images/2018/09/518442-H2-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -1098,6 +1098,10 @@
           
             
               <category>indies</category>
+            
+          
+            
+              <category>metroidvania</category>
             
           
         
