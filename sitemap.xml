@@ -2,49 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/zelda_totk_review/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/pikmin4_demo_review/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/zelda_totk_review/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/nintendo/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/zelda/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/%E8%96%A9%E7%88%BE%E9%81%94/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/totk_dungeon_review/</loc>
@@ -213,12 +222,6 @@
     <lastmod>2020-11-01T00:54:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pikmins_review/</loc>
-    <lastmod>2020-10-11T02:21:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
-    <lastmod>2020-10-11T02:21:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
     <lastmod>2020-10-11T02:21:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/a_short_hike_review/</loc>

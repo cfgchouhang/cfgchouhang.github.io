@@ -13,19 +13,19 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 22 Jun 2023 03:34:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2023 16:42:30 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>nintendo</title>
-        <link>https://cfg.meowdev.tw/tags/nintendo/</link>
-        <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
+        <title>pikmin</title>
+        <link>https://cfg.meowdev.tw/tags/pikmin/</link>
+        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
-        <guid>https://cfg.meowdev.tw/tags/nintendo/</guid>
+        <guid>https://cfg.meowdev.tw/tags/pikmin/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -40,10 +40,64 @@
       <item>
         <title>switch</title>
         <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
+        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>nintendo</title>
+        <link>https://cfg.meowdev.tw/tags/nintendo/</link>
+        <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/nintendo/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -74,48 +128,12 @@
       </item>
       
       <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>薩爾達</title>
         <link>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</link>
         <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -602,24 +620,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/games/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>pikmin</title>
-        <link>https://cfg.meowdev.tw/tags/pikmin/</link>
-        <pubDate>Sun, 11 Oct 2020 02:21:13 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/pikmin/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
