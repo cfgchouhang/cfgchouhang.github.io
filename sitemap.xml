@@ -2,43 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/pikmin4_demo_review/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/mario_kart_8dx_review_part2/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/mario_kart/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/pikmin4_demo_review/</loc>
     <lastmod>2023-07-01T16:42:30+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
     <lastmod>2023-07-01T16:42:30+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2023-07-01T16:42:30+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2023-07-01T16:42:30+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/zelda_totk_review/</loc>
@@ -99,15 +111,6 @@
     <lastmod>2023-01-07T01:59:05+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/mario_kart_8dx_review/</loc>
-    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
-    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
-    <lastmod>2022-12-30T02:10:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/mario_kart/</loc>
     <lastmod>2022-12-30T02:10:20+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/game_manual_talk/</loc>

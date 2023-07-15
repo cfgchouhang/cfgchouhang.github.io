@@ -13,11 +13,83 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 01 Jul 2023 16:42:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 17:58:07 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>mario_kart</title>
+        <link>https://cfg.meowdev.tw/categories/mario_kart/</link>
+        <pubDate>Sat, 15 Jul 2023 17:58:07 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/mario_kart/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>switch</title>
+        <link>https://cfg.meowdev.tw/categories/switch/</link>
+        <pubDate>Sat, 15 Jul 2023 17:58:07 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/switch/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Sat, 15 Jul 2023 17:58:07 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Sat, 15 Jul 2023 17:58:07 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>pikmin</title>
@@ -38,84 +110,12 @@
       </item>
       
       <item>
-        <title>switch</title>
-        <link>https://cfg.meowdev.tw/categories/switch/</link>
-        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/switch/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sat, 01 Jul 2023 16:42:30 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>薩爾達</title>
         <link>https://cfg.meowdev.tw/categories/%E8%96%A9%E7%88%BE%E9%81%94/</link>
         <pubDate>Thu, 22 Jun 2023 03:34:12 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/%E8%96%A9%E7%88%BE%E9%81%94/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>mario_kart</title>
-        <link>https://cfg.meowdev.tw/categories/mario_kart/</link>
-        <pubDate>Fri, 30 Dec 2022 02:10:20 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/mario_kart/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
