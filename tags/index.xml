@@ -13,19 +13,19 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sun, 03 Sep 2023 16:08:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2023 15:51:01 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>pikmin</title>
-        <link>https://cfg.meowdev.tw/tags/pikmin/</link>
-        <pubDate>Sun, 03 Sep 2023 16:08:50 +0800</pubDate>
+        <title>rpg</title>
+        <link>https://cfg.meowdev.tw/tags/rpg/</link>
+        <pubDate>Sat, 16 Sep 2023 15:51:01 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
-        <guid>https://cfg.meowdev.tw/tags/pikmin/</guid>
+        <guid>https://cfg.meowdev.tw/tags/rpg/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -40,7 +40,7 @@
       <item>
         <title>switch</title>
         <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Sun, 03 Sep 2023 16:08:50 +0800</pubDate>
+        <pubDate>Sat, 16 Sep 2023 15:51:01 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch/</guid>
@@ -58,7 +58,7 @@
       <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sun, 03 Sep 2023 16:08:50 +0800</pubDate>
+        <pubDate>Sat, 16 Sep 2023 15:51:01 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
@@ -76,10 +76,28 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sun, 03 Sep 2023 16:08:50 +0800</pubDate>
+        <pubDate>Sat, 16 Sep 2023 15:51:01 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>pikmin</title>
+        <link>https://cfg.meowdev.tw/tags/pikmin/</link>
+        <pubDate>Sun, 03 Sep 2023 16:08:50 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/pikmin/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -638,24 +656,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/indies/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rpg</title>
-        <link>https://cfg.meowdev.tw/tags/rpg/</link>
-        <pubDate>Wed, 19 Aug 2020 23:56:24 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/rpg/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>

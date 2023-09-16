@@ -2,40 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/red_dead_redemption_review/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/rpg/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/pikmin3_deluxe_review/</loc>
     <lastmod>2023-09-03T16:08:50+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2023-09-03T16:08:50+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2023-09-03T16:08:50+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/labo_review/</loc>
@@ -246,9 +252,6 @@
     <lastmod>2020-08-26T00:01:31+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/papermario_origami_review/</loc>
-    <lastmod>2020-08-19T23:56:24+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/rpg/</loc>
     <lastmod>2020-08-19T23:56:24+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/rpg/</loc>
