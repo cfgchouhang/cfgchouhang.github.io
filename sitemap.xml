@@ -2,40 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/obra_dinn_review/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/indie/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/indie/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/puzzle/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2023-09-20T00:46:24+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/red_dead_redemption_review/</loc>
     <lastmod>2023-09-16T15:51:01+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/rpg/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2023-09-16T15:51:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2023-09-16T15:51:01+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pikmin3_deluxe_review/</loc>
@@ -89,9 +101,6 @@
     <loc>https://cfg.meowdev.tw/totk_dungeon_review/</loc>
     <lastmod>2023-06-10T14:13:49+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/puzzle/</loc>
-    <lastmod>2023-06-10T14:13:49+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/dkc_tropical_freeze_review_rev/</loc>
     <lastmod>2023-04-22T18:56:13+08:00</lastmod>
   </url><url>
@@ -120,9 +129,6 @@
     <lastmod>2023-02-25T16:47:14+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/cuphead_review/</loc>
-    <lastmod>2023-01-07T01:59:05+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/indie/</loc>
     <lastmod>2023-01-07T01:59:05+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/run-and-gun/</loc>
@@ -171,9 +177,6 @@
     <lastmod>2022-05-01T16:25:15+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/outer_wilds_review/</loc>
-    <lastmod>2022-01-26T00:28:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/indie/</loc>
     <lastmod>2022-01-26T00:28:41+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/pc/</loc>
