@@ -13,23 +13,23 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Wed, 26 Aug 2020 00:01:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 17:18:35 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/indies/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>[心得] NDS 風格，精緻輕鬆的小品 A Short Hike</title>
-        <link>https://cfg.meowdev.tw/a_short_hike_review/</link>
-        <pubDate>Wed, 26 Aug 2020 00:01:31 +0800</pubDate>
+        <title>[心得] 獨特雋永的語言解謎遊戲，Chants of Sennaar</title>
+        <link>https://cfg.meowdev.tw/chants_of_sennaar_review/</link>
+        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 26 Aug 2020 00:01:31 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/a_short_hike_review/</guid>
-        <description>這是近來玩過最輕鬆舒壓，又帶有療癒跟樂趣的一款小品遊戲。從一年多前看到這款遊戲的 demo trailer，就很期待他能上 switch。想不到上次的 任</description>
+        <atom:modified>Tue, 10 Oct 2023 17:18:35 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/chants_of_sennaar_review/</guid>
+        <description>這是一款以翻譯語言進行解謎的遊戲，機制簡單直覺，延伸出的解謎花樣繁多；每次成功破譯的瞬間，讓人有種「我真聰明、原來如此」的強烈成就感。 遊戲的</description>
         
         <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/ash/walk.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://cfg.meowdev.tw//images/chants_sennaar/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,272 +63,6 @@
           
             
               <category>switch</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] Mulaka 屬於墨西哥原住民的小品ARPG</title>
-        <link>https://cfg.meowdev.tw/mulaka_review/</link>
-        <pubDate>Tue, 12 Feb 2019 06:38:55 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Tue, 12 Feb 2019 06:38:55 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/mulaka_review/</guid>
-        <description>這是一款紀錄著北美原住民Tarahumara（塔拉烏馬拉人，位於墨西哥）文化的遊戲。美術風格特別，有點像是薩爾達風之律動那種卡通渲染，但更為</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2019/02/DzLfk9fU8AAvXIT-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 令人沉浸的 2D 探索，好玩又很難的空洞騎士(Hollow Knight)</title>
-        <link>https://cfg.meowdev.tw/review_hollow_knight/</link>
-        <pubDate>Thu, 13 Sep 2018 08:15:55 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Thu, 13 Sep 2018 08:15:55 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/review_hollow_knight/</guid>
-        <description>簡述 空洞騎士是一款 2D 探索動作遊戲。地圖設計很優秀，激發探索欲和迷路感；以蟲與巢為設定，故事引人入勝；操作手感流暢，Boss 動作豐富，挑戰性十</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/09/518442-H2-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-            
-              <category>metroidvania</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得]SteamWorld Dig 2 西部蒸氣世界的礦坑挖掘記</title>
-        <link>https://cfg.meowdev.tw/steamworld_dig2_review/</link>
-        <pubDate>Tue, 10 Jul 2018 06:53:47 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Tue, 10 Jul 2018 06:53:47 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/steamworld_dig2_review/</guid>
-        <description>這款遊戲是近來獨立遊戲蠻常見的Metroidvania類型。此類的特色就是會有一個非常大的地圖，各區域都是連接的，但是會有不同的障礙，需要探</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/07/SteamWorld_Dig_2_pre-release_Steam_header.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得]Snake Pass，耳目一新的3D平台式遊戲</title>
-        <link>https://cfg.meowdev.tw/snakepass_review/</link>
-        <pubDate>Wed, 27 Jun 2018 07:01:45 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 27 Jun 2018 07:01:45 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/snakepass_review/</guid>
-        <description>Snake Pass是一款3D平台式遊戲~~(進化的3D貪食蛇)~~，規模屬於獨立製作的小品。所謂的3D平台式遊戲就是玩家操控主角，透過跑跳滾等常見動</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/06/header.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 回顧2017玩過的遊戲</title>
-        <link>https://cfg.meowdev.tw/2017games_review/</link>
-        <pubDate>Thu, 14 Dec 2017 21:51:38 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Thu, 14 Dec 2017 21:51:38 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/2017games_review/</guid>
-        <description>今年玩了不少遊戲，以下簡單回顧各個遊戲，遊玩程度不一，有的全要素通關，有的只是單純全破，更有只是蜻蜓點水般得摸過。年初部份以去日本搜來的ga</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2017/12/arms-new-character2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>games</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>ps4</category>
-            
-          
-            
-              <category>indies</category>
-            
-          
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>games</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>ps4</category>
             
           
             

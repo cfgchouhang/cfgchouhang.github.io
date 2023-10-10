@@ -13,19 +13,19 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Wed, 20 Sep 2023 00:46:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 17:18:35 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>indie</title>
-        <link>https://cfg.meowdev.tw/categories/indie/</link>
-        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
+        <title>indies</title>
+        <link>https://cfg.meowdev.tw/categories/indies/</link>
+        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
-        <guid>https://cfg.meowdev.tw/categories/indie/</guid>
+        <guid>https://cfg.meowdev.tw/categories/indies/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -40,7 +40,7 @@
       <item>
         <title>switch</title>
         <link>https://cfg.meowdev.tw/categories/switch/</link>
-        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
+        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/switch/</guid>
@@ -58,7 +58,7 @@
       <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
+        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</guid>
@@ -76,10 +76,28 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
+        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>indie</title>
+        <link>https://cfg.meowdev.tw/categories/indie/</link>
+        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/indie/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -332,24 +350,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/mario/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>indies</title>
-        <link>https://cfg.meowdev.tw/categories/indies/</link>
-        <pubDate>Wed, 26 Aug 2020 00:01:31 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/indies/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
