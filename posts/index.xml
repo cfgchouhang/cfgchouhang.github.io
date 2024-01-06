@@ -13,11 +13,73 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 04 Nov 2023 01:35:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 18:43:50 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 隻狼，刀劍鏗鏘的遊玩體驗</title>
+        <link>https://cfg.meowdev.tw/sekiro_review/</link>
+        <pubDate>Sat, 06 Jan 2024 18:43:50 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 06 Jan 2024 18:43:50 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/sekiro_review/</guid>
+        <description>這是款以武士刀對拚，戰鬥體驗極佳，充滿了日式風格的動作遊戲。花了四十八小時，兩個周末一口氣全破，以下簡單分享隻狼的遊玩體驗，其中關於 Boss 的部分</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/sekiro/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps4</category>
+            
+          
+            
+              <category>魂類</category>
+            
+          
+            
+              <category>隻狼</category>
+            
+          
+            
+              <category>from software</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps4</category>
+            
+          
+            
+              <category>魂類</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 皮克敏1&#43;2，硬派的撿寶遊戲</title>
@@ -996,6 +1058,10 @@
               <category>心得</category>
             
           
+            
+              <category>from software</category>
+            
+          
         
         
           
@@ -1130,6 +1196,10 @@
           
             
               <category>魂類</category>
+            
+          
+            
+              <category>from software</category>
             
           
         
