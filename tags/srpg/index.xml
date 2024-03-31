@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>srpg on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/srpg/</link>
+    <description>Recent content in srpg on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Sun, 31 Mar 2024 16:34:53 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/srpg/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] 聖獸之王，策略深度與妹子香度兼具，令人沉迷的 SRPG</title>
+        <link>https://cfg.meowdev.tw/unicorn_overlord_review/</link>
+        <pubDate>Sun, 31 Mar 2024 16:34:53 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 31 Mar 2024 16:34:53 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/unicorn_overlord_review/</guid>
+        <description>遊玩一百小時，以 Expert 難度破關，解完所有任務與夥伴對話。這款遊戲雖然故事較為平淡，但新穎的策略玩法、精緻的美術風格、有趣的夥伴對話，在玩過體驗版</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/unicorn_overlord/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>srpg</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
