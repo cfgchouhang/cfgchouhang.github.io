@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sun, 07 Apr 2024 13:06:02 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:44:37 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,60 @@
       
       
 
+      
+      <item>
+        <title>[心得] Jusant，爬山小品遊戲，玩後感</title>
+        <link>https://cfg.meowdev.tw/jusant_review/</link>
+        <pubDate>Thu, 18 Apr 2024 00:44:37 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 18 Apr 2024 00:44:37 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/jusant_review/</guid>
+        <description>我是在 GMTK 年度最富創意遊戲機制的影片中得知此款遊戲，一款以攀爬為玩法的遊戲，過程中會在峭壁狹縫中找到書信或是壁畫，揭開隱晦的背景故事，藉此提供</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/jusant/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps5</category>
+            
+          
+            
+              <category>indie</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps5</category>
+            
+          
+            
+              <category>indie</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 電鑽少女(Pepper Grinder)，一路鑽的大金剛體驗</title>
