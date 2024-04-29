@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/portals_review/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/pikmins_review_rev/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/portals_review/</loc>
     <lastmod>2024-04-26T23:04:20+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/other/</loc>
@@ -14,34 +50,7 @@
     <loc>https://cfg.meowdev.tw/categories/other/</loc>
     <lastmod>2024-04-26T23:04:20+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/puzzle/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-04-26T23:04:20+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-04-26T23:04:20+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/card_shark_review/</loc>
@@ -74,9 +83,6 @@
     <loc>https://cfg.meowdev.tw/pikmin3_mission_review/</loc>
     <lastmod>2024-01-27T01:55:26+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
-    <lastmod>2024-01-27T01:55:26+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/sekiro_review/</loc>
     <lastmod>2024-01-06T18:43:50+08:00</lastmod>
   </url><url>
@@ -99,9 +105,6 @@
     <lastmod>2024-01-06T18:43:50+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pikmin1-2_review/</loc>
-    <lastmod>2023-11-04T01:35:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
     <lastmod>2023-11-04T01:35:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/chants_of_sennaar_review/</loc>
