@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/mario_wonder_review/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/2d-platform/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/2d-platform/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/mario/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-05-09T01:19:33+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/run_and_gun_review/</loc>
     <lastmod>2024-05-06T01:53:14+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/run-and-gun/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-05-06T01:53:14+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/another_crab_treasure_review/</loc>
@@ -152,9 +167,6 @@
     <loc>https://cfg.meowdev.tw/mario_kart_8dx_review_part2/</loc>
     <lastmod>2023-07-15T17:58:07+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
-    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
     <lastmod>2023-07-15T17:58:07+08:00</lastmod>
   </url><url>
@@ -183,9 +195,6 @@
     <lastmod>2023-06-10T14:13:49+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/dkc_tropical_freeze_review_rev/</loc>
-    <lastmod>2023-04-22T18:56:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/2d-platform/</loc>
     <lastmod>2023-04-22T18:56:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/donkeykong/</loc>
@@ -300,9 +309,6 @@
     <lastmod>2021-03-28T10:44:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/mario_sunshine_review/</loc>
-    <lastmod>2020-11-01T00:54:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/mario/</loc>
     <lastmod>2020-11-01T00:54:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pikmins_review/</loc>
