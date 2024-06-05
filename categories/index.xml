@@ -13,11 +13,83 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 01 Jun 2024 02:23:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 01:20:23 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>indie</title>
+        <link>https://cfg.meowdev.tw/categories/indie/</link>
+        <pubDate>Thu, 06 Jun 2024 01:20:23 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/indie/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>switch</title>
+        <link>https://cfg.meowdev.tw/categories/switch/</link>
+        <pubDate>Thu, 06 Jun 2024 01:20:23 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/switch/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Thu, 06 Jun 2024 01:20:23 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Thu, 06 Jun 2024 01:20:23 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>mario</title>
@@ -56,60 +128,6 @@
       </item>
       
       <item>
-        <title>switch</title>
-        <link>https://cfg.meowdev.tw/categories/switch/</link>
-        <pubDate>Sat, 01 Jun 2024 02:23:38 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/switch/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sat, 01 Jun 2024 02:23:38 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sat, 01 Jun 2024 02:23:38 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>puzzle</title>
         <link>https://cfg.meowdev.tw/categories/puzzle/</link>
         <pubDate>Wed, 22 May 2024 00:48:45 +0800</pubDate>
@@ -134,24 +152,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/categories/2d-platform/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>indie</title>
-        <link>https://cfg.meowdev.tw/categories/indie/</link>
-        <pubDate>Fri, 03 May 2024 22:56:37 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/categories/indie/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>

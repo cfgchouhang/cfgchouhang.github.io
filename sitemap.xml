@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/paper_mario_rpg_review/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/animal_well_review/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/indie/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/indie/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/metroidvania/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-06-06T01:20:23+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/paper_mario_rpg_review/</loc>
     <lastmod>2024-06-01T02:23:38+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/mario/</loc>
@@ -20,34 +59,7 @@
     <loc>https://cfg.meowdev.tw/categories/paper-mario/</loc>
     <lastmod>2024-06-01T02:23:38+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/rpg/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-06-01T02:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-06-01T02:23:38+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/catherine_fullbody_review/</loc>
@@ -90,12 +102,6 @@
     <lastmod>2024-05-03T22:56:37+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/exploring/</loc>
-    <lastmod>2024-05-03T22:56:37+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/indie/</loc>
-    <lastmod>2024-05-03T22:56:37+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/indie/</loc>
     <lastmod>2024-05-03T22:56:37+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/platform/</loc>
@@ -384,9 +390,6 @@
     <lastmod>2018-09-26T21:25:56+00:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/review_hollow_knight/</loc>
-    <lastmod>2018-09-13T08:15:55+00:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/metroidvania/</loc>
     <lastmod>2018-09-13T08:15:55+00:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/20188_gamelog/</loc>
