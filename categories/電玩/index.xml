@@ -13,11 +13,69 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 06 Jun 2024 01:20:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 21:49:03 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 時空幻境(Braid)，以時間回溯為概念的小品解謎遊戲</title>
+        <link>https://cfg.meowdev.tw/braid_review/</link>
+        <pubDate>Sat, 08 Jun 2024 21:49:03 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 08 Jun 2024 21:49:03 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/braid_review/</guid>
+        <description>這是一款機制簡單，但很燒腦的解謎益智遊戲，遊戲全部只有 38 關，大約四到五小時可以全破。流程是從一個小房間，想辦法抵達前往下一關的門；每關會有拼</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/braid_review/0.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>puzzle</category>
+            
+          
+            
+              <category>indie</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>indie</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] ANIMAL WELL(動物井)，摸黑找蛋的 Metroidvania</title>
