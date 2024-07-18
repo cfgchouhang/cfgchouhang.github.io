@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>uncharted on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/uncharted/</link>
+    <description>Recent content in uncharted on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Thu, 18 Jul 2024 22:23:33 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/uncharted/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] 秘境探險4(Uncharted 4)，精彩的尋寶冒險，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/uncharted4_review/</link>
+        <pubDate>Thu, 18 Jul 2024 22:23:33 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 18 Jul 2024 22:23:33 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/uncharted4_review/</guid>
+        <description>秘境探險4 是我在 PS 上最喜愛的遊戲，2016 年在 PS4 上推出，後續出了 PS5 移植版，還是買來再次回味。這是一款以尋寶為題材的電影化遊戲；內容由過場演出</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/uncharted4_review/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps</category>
+            
+          
+            
+              <category>uncharted</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
