@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/hey_pikmin_review/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/3ds/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/3ds/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/ninendo/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/the_last_campfire_review/</loc>
     <lastmod>2024-07-21T00:37:38+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/indie/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
     <lastmod>2024-07-21T00:37:38+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/switch/</loc>
     <lastmod>2024-07-21T00:37:38+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-07-21T00:37:38+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-07-21T00:37:38+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/uncharted4_review/</loc>
@@ -171,9 +186,6 @@
     <lastmod>2024-05-03T22:56:37+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pikmins_review_rev/</loc>
-    <lastmod>2024-04-29T20:05:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
     <lastmod>2024-04-29T20:05:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/pikmin/</loc>
@@ -432,12 +444,6 @@
     <lastmod>2018-08-16T06:41:39+00:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/madeinwario_gorgeous_review/</loc>
-    <lastmod>2018-07-20T04:13:19+00:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/3ds/</loc>
-    <lastmod>2018-07-20T04:13:19+00:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/3ds/</loc>
     <lastmod>2018-07-20T04:13:19+00:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/steamworld_dig2_review/</loc>
