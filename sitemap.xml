@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/arranger_review/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/intendo_world_champions_ships_review/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/nintendo/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-07-30T01:19:31+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/arranger_review/</loc>
     <lastmod>2024-07-27T22:11:41+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/indie/</loc>
@@ -14,34 +47,7 @@
     <loc>https://cfg.meowdev.tw/categories/indie/</loc>
     <lastmod>2024-07-27T22:11:41+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/puzzle/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-07-27T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-07-27T22:11:41+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/hey_pikmin_review/</loc>
@@ -267,9 +273,6 @@
     <lastmod>2023-07-01T16:42:30+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/zelda_totk_review/</loc>
-    <lastmod>2023-06-22T03:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/nintendo/</loc>
     <lastmod>2023-06-22T03:34:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/totk_dungeon_review/</loc>
