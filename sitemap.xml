@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/machinarium_review/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/aoe4_campaign_review/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/aoe/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pc/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/pc/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/rts/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/rts/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-08-14T02:22:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/machinarium_review/</loc>
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/indie/</loc>
@@ -14,34 +53,13 @@
     <loc>https://cfg.meowdev.tw/categories/indie/</loc>
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/puzzle/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/switch/</loc>
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-08-07T01:11:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/gba_kururin_review/</loc>
@@ -339,12 +357,6 @@
     <lastmod>2022-05-01T16:25:15+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/outer_wilds_review/</loc>
-    <lastmod>2022-01-26T00:28:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pc/</loc>
-    <lastmod>2022-01-26T00:28:41+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/pc/</loc>
     <lastmod>2022-01-26T00:28:41+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/ps4/</loc>
