@@ -13,19 +13,37 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 13 Sep 2024 23:50:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 02:29:41 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>goodfeel</title>
-        <link>https://cfg.meowdev.tw/tags/goodfeel/</link>
-        <pubDate>Fri, 13 Sep 2024 23:50:07 +0800</pubDate>
+        <title>adventure</title>
+        <link>https://cfg.meowdev.tw/tags/adventure/</link>
+        <pubDate>Tue, 24 Sep 2024 02:29:41 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
-        <guid>https://cfg.meowdev.tw/tags/goodfeel/</guid>
+        <guid>https://cfg.meowdev.tw/tags/adventure/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>indie</title>
+        <link>https://cfg.meowdev.tw/tags/indie/</link>
+        <pubDate>Tue, 24 Sep 2024 02:29:41 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/indie/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -40,7 +58,7 @@
       <item>
         <title>switch</title>
         <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Fri, 13 Sep 2024 23:50:07 +0800</pubDate>
+        <pubDate>Tue, 24 Sep 2024 02:29:41 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch/</guid>
@@ -58,7 +76,7 @@
       <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Fri, 13 Sep 2024 23:50:07 +0800</pubDate>
+        <pubDate>Tue, 24 Sep 2024 02:29:41 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
@@ -76,10 +94,28 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Fri, 13 Sep 2024 23:50:07 +0800</pubDate>
+        <pubDate>Tue, 24 Sep 2024 02:29:41 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>goodfeel</title>
+        <link>https://cfg.meowdev.tw/tags/goodfeel/</link>
+        <pubDate>Fri, 13 Sep 2024 23:50:07 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/goodfeel/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -206,24 +242,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/2d-platform/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>indie</title>
-        <link>https://cfg.meowdev.tw/tags/indie/</link>
-        <pubDate>Sun, 01 Sep 2024 16:37:56 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/indie/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
