@@ -2,40 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/nintendo_store_talk/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/game_collections_talk/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/gamecube/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/gba/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/talk/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E8%B6%85%E4%BB%BB/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%9C%E8%A8%98/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/nintendo_store_talk/</loc>
     <lastmod>2024-10-24T00:02:45+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/nintendo/</loc>
     <lastmod>2024-10-24T00:02:45+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E8%B3%BC%E7%89%A9/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%9C%E8%A8%98/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2024-10-24T00:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2024-10-24T00:02:45+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/chou_makaimura_review/</loc>
@@ -45,9 +63,6 @@
     <lastmod>2024-10-09T16:43:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/sfc/</loc>
-    <lastmod>2024-10-09T16:43:13+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
     <lastmod>2024-10-09T16:43:13+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
@@ -153,9 +168,6 @@
     <lastmod>2024-08-07T01:11:00+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/gba_kururin_review/</loc>
-    <lastmod>2024-08-03T23:03:51+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/gba/</loc>
     <lastmod>2024-08-03T23:03:51+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/nintendo_world_champions_ships_review/</loc>
@@ -405,9 +417,6 @@
     <lastmod>2022-12-30T02:10:20+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/game_manual_talk/</loc>
-    <lastmod>2022-07-23T01:03:59+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/gamecube/</loc>
     <lastmod>2022-07-23T01:03:59+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E6%94%B6%E8%97%8F/</loc>
