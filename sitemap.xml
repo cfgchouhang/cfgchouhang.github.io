@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/switch_games_top_list/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/splatoon3_review/</loc>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/splatoon/</loc>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-01-17T22:44:34+08:00</lastmod>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/switch_games_top_list/</loc>
     <lastmod>2025-01-17T22:44:34+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/arms_review/</loc>
