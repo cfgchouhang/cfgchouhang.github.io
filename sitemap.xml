@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/splatoon3_review/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/pikmin_figures_review/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/collection/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E6%94%B6%E8%97%8F/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%9C%E8%A8%98/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-02-01T11:43:54+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/splatoon3_review/</loc>
     <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/splatoon/</loc>
@@ -23,19 +50,10 @@
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
     <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-01-25T15:10:19+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-01-25T15:10:19+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/switch_games_top_list/</loc>
@@ -77,19 +95,13 @@
     <loc>https://cfg.meowdev.tw/categories/zelda/</loc>
     <lastmod>2024-12-25T09:17:25+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E6%94%B6%E8%97%8F/</loc>
-    <lastmod>2024-12-25T09:17:25+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E6%95%97%E5%AE%B6/</loc>
     <lastmod>2024-12-25T09:17:25+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%9C%E8%A8%98/</loc>
-    <lastmod>2024-12-25T09:17:25+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/</loc>
-    <lastmod>2024-12-25T09:17:25+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/zelda_switch_lite/</loc>
+    <lastmod>2024-12-25T09:10:24+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E6%94%B6%E8%97%8F/</loc>
     <lastmod>2024-12-25T09:10:24+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/animal_crossing_switch_review/</loc>
@@ -261,9 +273,6 @@
     <lastmod>2024-07-26T22:07:17+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/ninendo/</loc>
-    <lastmod>2024-07-26T22:07:17+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pikmin/</loc>
     <lastmod>2024-07-26T22:07:17+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/the_last_campfire_review/</loc>
