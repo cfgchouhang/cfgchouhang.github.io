@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/starfox_zero_review/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/shooting/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/starfox/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/wiiu/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/wiiu/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-02-14T21:56:16+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/don_doko_don_review/</loc>
     <lastmod>2025-02-11T00:53:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/arcade/</loc>
     <lastmod>2025-02-11T00:53:11+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/switch/</loc>
     <lastmod>2025-02-11T00:53:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-02-11T00:53:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/dkc_returns_review/</loc>
@@ -141,9 +156,6 @@
     <lastmod>2024-12-10T00:53:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/ps/</loc>
-    <lastmod>2024-12-10T00:53:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/wiiu/</loc>
     <lastmod>2024-12-10T00:53:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/aom_campaign_review/</loc>
@@ -585,9 +597,6 @@
     <lastmod>2020-01-11T16:16:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/dk/</loc>
-    <lastmod>2020-01-11T16:16:12+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/wiiu/</loc>
     <lastmod>2020-01-11T16:16:12+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/2019_games/</loc>

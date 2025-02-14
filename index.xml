@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Tue, 11 Feb 2025 00:53:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 21:56:16 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,60 @@
       
       
 
+      
+      <item>
+        <title>[心得] 星戰火狐 零，拿著 WiiU 平板開飛機，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/starfox_zero_review/</link>
+        <pubDate>Fri, 14 Feb 2025 21:56:16 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Fri, 14 Feb 2025 21:56:16 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/starfox_zero_review/</guid>
+        <description>這是一款帶有濃厚動作元素的 3D 空戰射擊遊戲，由擅長動作遊戲的白金工作室開發，系列催生者，任天堂的宮本茂也有密切參與討論和設計。 這系列我僅玩過 3DS</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/starfox_zero_review/2iEhHeU.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+            
+              <category>starfox</category>
+            
+          
+            
+              <category>shooting</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>wiiu</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 木槌兄弟，全部都敲扁，Don Doko Don！</title>
@@ -5526,60 +5580,6 @@
           
             
               <category>心得</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 控制器集合與家掌合一：任天堂最新主機 Switch</title>
-        <link>https://cfg.meowdev.tw/switch_note/</link>
-        <pubDate>Sat, 18 Mar 2017 05:11:09 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sat, 18 Mar 2017 05:11:09 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/switch_note/</guid>
-        <description>衝首發！ 主機 任天堂在月初推出了最新的可攜帶型主機 Switch，預購非常熱烈，我有幸在日本亞馬遜第二次開放預購時搶到一台。這次從外盒包裝、配件</description>
-        
-        <dc:creator>Peter</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>nintendo</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-        
-        
-          
-            
-              <category>nintendo</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>switch</category>
             
           
         
