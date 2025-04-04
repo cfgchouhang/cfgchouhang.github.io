@@ -2,40 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/astro_bot_review/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/3d-platform/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/ps5/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/ps5/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-04-04T16:02:34+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/nuclear_blaze_review/</loc>
     <lastmod>2025-03-29T21:01:03+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/indie/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
     <lastmod>2025-03-29T21:01:03+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/switch/</loc>
     <lastmod>2025-03-29T21:01:03+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-03-29T21:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-03-29T21:01:03+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/fzero_x_review/</loc>
@@ -404,9 +416,6 @@
     <loc>https://cfg.meowdev.tw/3d_marios_review/</loc>
     <lastmod>2024-05-17T01:25:22+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/3d-platform/</loc>
-    <lastmod>2024-05-17T01:25:22+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/exploraing/</loc>
     <lastmod>2024-05-17T01:25:22+08:00</lastmod>
   </url><url>
@@ -453,12 +462,6 @@
     <lastmod>2024-04-21T14:45:36+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/jusant_review/</loc>
-    <lastmod>2024-04-18T00:44:37+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/ps5/</loc>
-    <lastmod>2024-04-18T00:44:37+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/ps5/</loc>
     <lastmod>2024-04-18T00:44:37+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pepper_grinder_review/</loc>
