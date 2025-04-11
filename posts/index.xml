@@ -13,11 +13,57 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 04 Apr 2025 16:02:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 02:25:26 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] Switch 多人同樂遊戲分享</title>
+        <link>https://cfg.meowdev.tw/switch_multiplayer_games_list/</link>
+        <pubDate>Sat, 12 Apr 2025 02:25:26 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 12 Apr 2025 02:25:26 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/switch_multiplayer_games_list/</guid>
+        <description>繼個人嚴選推薦的各類遊戲 ，同樂為主的作品也該來一發才對；以下提到的遊戲以任天堂本家為主，皆是自身與家人或朋友一起遊玩而來的體驗，並以大夥兒感</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/switch_multiplayer_games_list/3oRdXEB.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 宇宙機器人，拯救 PS5 之旅，遊玩感想</title>
@@ -5623,44 +5669,6 @@
           
             
               <category>indie</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>5-8月 遊戲紀錄</title>
-        <link>https://cfg.meowdev.tw/20188_gamelog/</link>
-        <pubDate>Thu, 16 Aug 2018 06:41:39 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Thu, 16 Aug 2018 06:41:39 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/20188_gamelog/</guid>
-        <description>1-4月本家的新遊戲卡比，看起來很普，沒入手。主要把Xeno2破完，剩下的時間就是薩爾達、噴漆以及奧德賽的氣球DLC度過。 4月底退伍後去日本</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/08/DKKONG.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
             
           
         
