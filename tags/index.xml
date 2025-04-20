@@ -13,16 +13,106 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 12 Apr 2025 02:25:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 15:05:14 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>fc</title>
+        <link>https://cfg.meowdev.tw/tags/fc/</link>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/fc/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>gb</title>
+        <link>https://cfg.meowdev.tw/tags/gb/</link>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/gb/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>nso</title>
+        <link>https://cfg.meowdev.tw/tags/nso/</link>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/nso/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>puzzle</title>
+        <link>https://cfg.meowdev.tw/tags/puzzle/</link>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/puzzle/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>retro</title>
+        <link>https://cfg.meowdev.tw/tags/retro/</link>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/retro/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>switch</title>
         <link>https://cfg.meowdev.tw/tags/switch/</link>
-        <pubDate>Sat, 12 Apr 2025 02:25:26 +0800</pubDate>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch/</guid>
@@ -40,7 +130,7 @@
       <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sat, 12 Apr 2025 02:25:26 +0800</pubDate>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
@@ -58,7 +148,7 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sat, 12 Apr 2025 02:25:26 +0800</pubDate>
+        <pubDate>Sun, 20 Apr 2025 15:05:14 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
@@ -164,42 +254,6 @@
       </item>
       
       <item>
-        <title>nso</title>
-        <link>https://cfg.meowdev.tw/tags/nso/</link>
-        <pubDate>Sat, 22 Mar 2025 15:22:53 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/nso/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>retro</title>
-        <link>https://cfg.meowdev.tw/tags/retro/</link>
-        <pubDate>Sat, 22 Mar 2025 15:22:53 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/retro/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>starfox</title>
         <link>https://cfg.meowdev.tw/tags/starfox/</link>
         <pubDate>Sat, 08 Mar 2025 22:45:24 +0800</pubDate>
@@ -260,24 +314,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/3ds/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>fc</title>
-        <link>https://cfg.meowdev.tw/tags/fc/</link>
-        <pubDate>Sat, 01 Mar 2025 00:10:42 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/fc/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -962,24 +998,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/aoe/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>puzzle</title>
-        <link>https://cfg.meowdev.tw/tags/puzzle/</link>
-        <pubDate>Wed, 07 Aug 2024 01:11:00 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/puzzle/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
