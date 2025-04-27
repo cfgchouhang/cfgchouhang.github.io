@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sun, 20 Apr 2025 15:05:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 21:27:41 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,56 @@
       
       
 
+      
+      <item>
+        <title>[雜談] 異度神劍一二三，閒聊回顧</title>
+        <link>https://cfg.meowdev.tw/xenoblade123_review/</link>
+        <pubDate>Sun, 27 Apr 2025 21:27:41 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 27 Apr 2025 21:27:41 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/xenoblade123_review/</guid>
+        <description>異度神劍系列作，老任少有的 JRPG 作品，特點是有著廣大深邃的地圖、人機科幻的劇情設定、獨特的戰鬥連擊機制，以及讓人耳朵高潮的優異配樂；各作品保有上</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/xenoblade123_review/4FS4JWC.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>xenoblade</category>
+            
+          
+            
+              <category>jrpg</category>
+            
+          
+        
+        
+          
+            
+              <category>雜談</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] Switch 懷舊小品，大金剛、做漢堡、拆屋工</title>
@@ -2638,10 +2688,6 @@
         
           
             
-              <category>心得</category>
-            
-          
-            
               <category>電玩</category>
             
           
@@ -2661,7 +2707,7 @@
         
           
             
-              <category>心得</category>
+              <category>雜談</category>
             
           
             
@@ -3052,10 +3098,6 @@
         
           
             
-              <category>心得</category>
-            
-          
-            
               <category>電玩</category>
             
           
@@ -3079,7 +3121,7 @@
         
           
             
-              <category>心得</category>
+              <category>雜談</category>
             
           
             
@@ -3292,10 +3334,6 @@
         
           
             
-              <category>心得</category>
-            
-          
-            
               <category>電玩</category>
             
           
@@ -3311,7 +3349,7 @@
         
           
             
-              <category>心得</category>
+              <category>雜談</category>
             
           
             
@@ -4280,6 +4318,10 @@
             
           
             
+              <category>雜談</category>
+            
+          
+            
               <category>電玩</category>
             
           
@@ -4303,7 +4345,7 @@
         
           
             
-              <category>心得</category>
+              <category>雜談</category>
             
           
             
@@ -4934,10 +4976,6 @@
         
           
             
-              <category>電玩</category>
-            
-          
-            
               <category>薩爾達</category>
             
           
@@ -4961,6 +4999,10 @@
         
           
             
+              <category>雜談</category>
+            
+          
+            
               <category>電玩</category>
             
           
@@ -4974,10 +5016,6 @@
           
             
               <category>switch</category>
-            
-          
-            
-              <category>心得</category>
             
           
         
@@ -5654,44 +5692,6 @@
           
             
               <category>電玩</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>解決 Switch搖桿(Joy-Con) 半故障問題</title>
-        <link>https://cfg.meowdev.tw/note_fix_joycon/</link>
-        <pubDate>Wed, 26 Sep 2018 21:25:56 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 26 Sep 2018 21:25:56 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/note_fix_joycon/</guid>
-        <description>任天堂的品質真的是下降，歷代控制器就屬JoyCon問題最多。買來不到幾個月就陸續有延遲、準心亂飄的問題。 延遲是內部訊號發射的零件被遮住，可自</description>
-        
-        <dc:creator>Peter</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>雜記</category>
             
           
         
