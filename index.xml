@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 24 May 2025 00:10:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 22:35:16 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,72 @@
       
       
 
+      
+      <item>
+        <title>[心得] 卡比的起點，一二夢之泉，簡介與感想</title>
+        <link>https://cfg.meowdev.tw/kirby_olds_review/</link>
+        <pubDate>Fri, 06 Jun 2025 22:35:16 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Fri, 06 Jun 2025 22:35:16 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/kirby_olds_review/</guid>
+        <description>任天堂很擅長製作平台跳躍闖關的遊戲，不同系列有著各自特色：專注在跳躍的瑪莉歐、生蛋丟蛋的耀西、翻滾跳躍一氣呵成的大金剛、已成絕響，身體會起各</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/kirby_olds_review/cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>nso</category>
+            
+          
+            
+              <category>gb</category>
+            
+          
+            
+              <category>retro</category>
+            
+          
+            
+              <category>kirby</category>
+            
+          
+            
+              <category>2d-platform</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 深世海，Capcom 令人沉浸的潛水探索小品</title>
@@ -3040,7 +3106,7 @@
             
           
             
-              <category>gameboy</category>
+              <category>gb</category>
             
           
             
@@ -5678,52 +5744,6 @@
           
             
               <category>nintendo</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 回顧 2019 玩過的遊戲</title>
-        <link>https://cfg.meowdev.tw/2019_games/</link>
-        <pubDate>Sat, 28 Dec 2019 10:46:10 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sat, 28 Dec 2019 10:46:10 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/2019_games/</guid>
-        <description>年末將至，隨手記錄今年一整年玩過的遊戲，一些簡易心得與雜談，去年主要的遊戲，寫了三篇：空洞騎士、馬力歐派對、大亂鬥，本家去年就是移植&amp;amp</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2019/12/EM5KQTCUUAE0lEM.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
             
           
         
