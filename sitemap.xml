@@ -2,13 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/metal_slug_12345_review/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/arcade/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/metal_slug/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/retro/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/run-and-gun/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-06-13T22:41:41+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/kirby_olds_review/</loc>
     <lastmod>2025-06-06T22:35:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/2d-platform/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
     <lastmod>2025-06-06T22:35:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/gb/</loc>
@@ -18,36 +60,6 @@
     <lastmod>2025-06-06T22:35:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/nso/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/retro/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-06-06T22:35:16+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-06-06T22:35:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/shinsekai_review/</loc>
@@ -186,9 +198,6 @@
     <lastmod>2025-02-14T21:56:16+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/don_doko_don_review/</loc>
-    <lastmod>2025-02-11T00:53:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/arcade/</loc>
     <lastmod>2025-02-11T00:53:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/dkc_returns_review/</loc>
@@ -468,9 +477,6 @@
     <lastmod>2024-05-09T01:19:33+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/run_and_gun_review/</loc>
-    <lastmod>2024-05-06T01:53:14+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/run-and-gun/</loc>
     <lastmod>2024-05-06T01:53:14+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/another_crab_treasure_review/</loc>
