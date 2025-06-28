@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 20 Jun 2025 20:46:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 23:21:38 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,56 @@
       
       
 
+      
+      <item>
+        <title>[心得] 奇諾比奧隊長，精緻箱庭尋寶記</title>
+        <link>https://cfg.meowdev.tw/captain_toad_review/</link>
+        <pubDate>Sat, 28 Jun 2025 23:21:38 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 28 Jun 2025 23:21:38 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/captain_toad_review/</guid>
+        <description>這是款很好玩的益智小品，玩家要操控奇諾比奧，在如同盒子般的箱庭關卡之中找寶箱，拿星星與金幣破關，如此一關接一關。六年前破過一次，最近補了 DL</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/captain_toad_review/2025062812114400-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>puzzle</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 織夢島，小而美的薩爾達傳說</title>
@@ -5662,60 +5712,6 @@
           
             
               <category>pikmin</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] NDS 風格，精緻輕鬆的小品 A Short Hike</title>
-        <link>https://cfg.meowdev.tw/a_short_hike_review/</link>
-        <pubDate>Wed, 26 Aug 2020 00:01:31 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 26 Aug 2020 00:01:31 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/a_short_hike_review/</guid>
-        <description>這是近來玩過最輕鬆舒壓，又帶有療癒跟樂趣的一款小品遊戲。從一年多前看到這款遊戲的 demo trailer，就很期待他能上 switch。想不到上次的 任</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/ash/walk.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
             
           
         
