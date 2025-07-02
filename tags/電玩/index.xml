@@ -13,11 +13,61 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 28 Jun 2025 23:21:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 01:30:01 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 寶可夢傳說 阿爾宙斯，耳目一新的遊玩體驗</title>
+        <link>https://cfg.meowdev.tw/pokemon_legends_arceus_review/</link>
+        <pubDate>Thu, 03 Jul 2025 01:30:01 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 03 Jul 2025 01:30:01 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/pokemon_legends_arceus_review/</guid>
+        <description>雖是長年任粉，但對寶可夢系列並無特別熱衷；玩過 GB 上的黃版銀版，錯過 GBA 和 DS 世代，接著 3DS 與 NS 的主要作品都有玩，只求通關主線的輕度玩家。趁著傳說新</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/pokemon_legends_arceus_review/2025052009325000-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>pokemon</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 奇諾比奧隊長，精緻箱庭尋寶記</title>
@@ -5659,52 +5709,6 @@
           
             
               <category>nintendo</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 回顧 2019 玩過的遊戲</title>
-        <link>https://cfg.meowdev.tw/2019_games/</link>
-        <pubDate>Sat, 28 Dec 2019 10:46:10 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sat, 28 Dec 2019 10:46:10 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/2019_games/</guid>
-        <description>年末將至，隨手記錄今年一整年玩過的遊戲，一些簡易心得與雜談，去年主要的遊戲，寫了三篇：空洞騎士、馬力歐派對、大亂鬥，本家去年就是移植&amp;amp</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2019/12/EM5KQTCUUAE0lEM.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>雜記</category>
             
           
         
