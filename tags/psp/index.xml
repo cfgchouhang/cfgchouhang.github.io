@@ -13,18 +13,18 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 03 Jul 2025 01:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 01:10:23 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/psp/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>[雜記] PSP 回憶錄</title>
+        <title>[雜記] PSP，經典掌機回憶錄</title>
         <link>https://cfg.meowdev.tw/psp_talk/</link>
-        <pubDate>Thu, 03 Jul 2025 01:01:23 +0800</pubDate>
+        <pubDate>Wed, 09 Jul 2025 01:10:23 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Thu, 03 Jul 2025 01:01:23 +0800</atom:modified>
+        <atom:modified>Wed, 09 Jul 2025 01:10:23 +0800</atom:modified>
         <guid>https://cfg.meowdev.tw/psp_talk/</guid>
         <description>PSP，經典掌機。 為了騰出空間給未來的 Switch2 遊戲片，最近整理一番書櫃中的電玩收藏。看到架上剩下的六款 PSP 遊戲，頓時想起國中時期的遊玩經歷；寫了這麼</description>
         
@@ -46,6 +46,10 @@
               <category>psp</category>
             
           
+            
+              <category>ps</category>
+            
+          
         
         
           
@@ -55,6 +59,10 @@
           
             
               <category>電玩</category>
+            
+          
+            
+              <category>ps</category>
             
           
         
