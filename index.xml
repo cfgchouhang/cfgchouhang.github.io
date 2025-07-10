@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Wed, 09 Jul 2025 01:10:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 02:45:20 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,52 @@
       
       
 
+      
+      <item>
+        <title>[雜記] Switch2，Turn on！</title>
+        <link>https://cfg.meowdev.tw/ns2_talk/</link>
+        <pubDate>Fri, 11 Jul 2025 02:45:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Fri, 11 Jul 2025 02:45:20 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/ns2_talk/</guid>
+        <description>17280，入手了 Switch2 + 256G記憶卡。 包裝更為緊緻細密，機子更大，但是整個外盒小了快一半。 玩了八年的 Switch 準備要下台一鞠躬了。雖然 NS2 更大台，掌機</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/ns2_talk/IMG-4335.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[雜記] PSP，經典掌機回憶錄</title>
@@ -5642,68 +5688,6 @@
           
             
               <category>mh</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得]PS的扛壩子之一，秘境探險(Uncharted)系列介紹</title>
-        <link>https://cfg.meowdev.tw/uncharted_review/</link>
-        <pubDate>Sun, 28 Mar 2021 10:44:19 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sun, 28 Mar 2021 10:44:19 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/uncharted_review/</guid>
-        <description>先來看一段十週年的紀念影片 前言 如果說在 PS 這邊要選最喜歡的作品的話，腦海中浮現的就是秘境探險。它總共有四代，一到三代在 PS3，PS4 有移植的合</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2017/10/CiaPbGUUgAAItZG.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>games</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>ps4</category>
-            
-          
-        
-        
-          
-            
-              <category>games</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>ps4</category>
             
           
         
