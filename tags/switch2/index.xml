@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>switch2 on P宅</title>
+    <link>https://cfg.meowdev.tw/tags/switch2/</link>
+    <description>Recent content in switch2 on P宅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
+    <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
+    <lastBuildDate>Thu, 24 Jul 2025 20:24:19 +0800</lastBuildDate>
+    
+        <atom:link href="https://cfg.meowdev.tw/tags/switch2/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[心得] Switch2 秘密展，遊覽軟體，玩後分享</title>
+        <link>https://cfg.meowdev.tw/ns2_tour_review/</link>
+        <pubDate>Thu, 24 Jul 2025 20:24:19 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 24 Jul 2025 20:24:19 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/ns2_tour_review/</guid>
+        <description>Switch2秘密展，一款收錄主機硬體知識，並帶有趣味 Demo 與小遊戲的軟體。很多人對這個「要收錢的說明書」嗤之以鼻，連我這頭大任豚當初乍看也是困</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/ns2_tour_review/a.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>[雜記] Switch2，Turn on！</title>
+        <link>https://cfg.meowdev.tw/ns2_talk/</link>
+        <pubDate>Fri, 11 Jul 2025 02:45:20 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Fri, 11 Jul 2025 02:45:20 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/ns2_talk/</guid>
+        <description>17280，入手了 Switch2 + 256G記憶卡。 包裝更為緊緻細密，機子更大，但是整個外盒小了快一半。 玩了八年的 Switch 準備要下台一鞠躬了。雖然 NS2 更大台，掌機</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/ns2_talk/IMG-4335.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+          
+            
+              <category>雜記</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -13,11 +13,111 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 03 Jul 2025 01:30:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 20:24:19 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] Switch2 秘密展，遊覽軟體，玩後分享</title>
+        <link>https://cfg.meowdev.tw/ns2_tour_review/</link>
+        <pubDate>Thu, 24 Jul 2025 20:24:19 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 24 Jul 2025 20:24:19 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/ns2_tour_review/</guid>
+        <description>Switch2秘密展，一款收錄主機硬體知識，並帶有趣味 Demo 與小遊戲的軟體。很多人對這個「要收錢的說明書」嗤之以鼻，連我這頭大任豚當初乍看也是困</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/ns2_tour_review/a.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>[心得] 秘境探險 黃金深淵，PS Vita 代表作，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/uncharted_vita_review/</link>
+        <pubDate>Thu, 17 Jul 2025 21:13:25 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 17 Jul 2025 21:13:25 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/uncharted_vita_review/</guid>
+        <description>PS 本家陣容中，最愛的當屬秘境探險系列，一二三四加上雙姝外傳都有破關；最近利用空檔，把遺漏的掌機之作，PS Vita 上的黃金深淵也破了，寫篇文章記錄與</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/uncharted_vita_review/2025-07-11-221648-png.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps</category>
+            
+          
+            
+              <category>psvita</category>
+            
+          
+            
+              <category>uncharted</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>ps</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 寶可夢傳說 阿爾宙斯，耳目一新的遊玩體驗</title>
@@ -5016,6 +5116,10 @@
               <category>ps4</category>
             
           
+            
+              <category>uncharted</category>
+            
+          
         
         
           
@@ -5601,98 +5705,6 @@
           
             
               <category>電玩</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 壞利歐工房 豪華版 試玩</title>
-        <link>https://cfg.meowdev.tw/madeinwario_gorgeous_review/</link>
-        <pubDate>Fri, 20 Jul 2018 04:13:19 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Fri, 20 Jul 2018 04:13:19 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/madeinwario_gorgeous_review/</guid>
-        <description>今天載了試玩版，給三種模式(按鍵、旋轉和觸控)， 每個模式有五個左右的小遊戲隨機給你玩，越後面速度越快。 之前玩過那個DS觸控的，覺得是個很瞎很</description>
-        
-        <dc:creator>Peter</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>3ds</category>
-            
-          
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>3ds</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得]SteamWorld Dig 2 西部蒸氣世界的礦坑挖掘記</title>
-        <link>https://cfg.meowdev.tw/steamworld_dig2_review/</link>
-        <pubDate>Tue, 10 Jul 2018 06:53:47 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Tue, 10 Jul 2018 06:53:47 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/steamworld_dig2_review/</guid>
-        <description>這款遊戲是近來獨立遊戲蠻常見的Metroidvania類型。此類的特色就是會有一個非常大的地圖，各區域都是連接的，但是會有不同的障礙，需要探</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/07/SteamWorld_Dig_2_pre-release_Steam_header.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
             
           
             
