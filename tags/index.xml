@@ -13,16 +13,70 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 24 Jul 2025 20:24:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 03:33:26 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>arpg</title>
+        <link>https://cfg.meowdev.tw/tags/arpg/</link>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/arpg/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>demo</title>
+        <link>https://cfg.meowdev.tw/tags/demo/</link>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/demo/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hd2d</title>
+        <link>https://cfg.meowdev.tw/tags/hd2d/</link>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/hd2d/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>switch2</title>
         <link>https://cfg.meowdev.tw/tags/switch2/</link>
-        <pubDate>Thu, 24 Jul 2025 20:24:19 +0800</pubDate>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch2/</guid>
@@ -40,7 +94,7 @@
       <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Thu, 24 Jul 2025 20:24:19 +0800</pubDate>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
@@ -58,7 +112,7 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Thu, 24 Jul 2025 20:24:19 +0800</pubDate>
+        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
@@ -1754,60 +1808,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/c/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>coding</title>
-        <link>https://cfg.meowdev.tw/tags/coding/</link>
-        <pubDate>Thu, 17 Nov 2016 06:48:15 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/coding/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>教學</title>
-        <link>https://cfg.meowdev.tw/tags/%E6%95%99%E5%AD%B8/</link>
-        <pubDate>Wed, 02 Nov 2016 23:06:51 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E6%95%99%E5%AD%B8/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>社交</title>
-        <link>https://cfg.meowdev.tw/tags/%E7%A4%BE%E4%BA%A4/</link>
-        <pubDate>Sun, 16 Oct 2016 21:18:08 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E7%A4%BE%E4%BA%A4/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
