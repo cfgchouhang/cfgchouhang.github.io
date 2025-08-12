@@ -13,11 +13,101 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 01 Aug 2025 03:33:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 01:32:35 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>switch2</title>
+        <link>https://cfg.meowdev.tw/tags/switch2/</link>
+        <pubDate>Wed, 13 Aug 2025 01:32:35 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/switch2/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>zelda</title>
+        <link>https://cfg.meowdev.tw/tags/zelda/</link>
+        <pubDate>Wed, 13 Aug 2025 01:32:35 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/zelda/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>心得</title>
+        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Wed, 13 Aug 2025 01:32:35 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>薩爾達</title>
+        <link>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</link>
+        <pubDate>Wed, 13 Aug 2025 01:32:35 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>電玩</title>
+        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
+        <pubDate>Wed, 13 Aug 2025 01:32:35 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>arpg</title>
@@ -62,60 +152,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/hd2d/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>switch2</title>
-        <link>https://cfg.meowdev.tw/tags/switch2/</link>
-        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/switch2/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>心得</title>
-        <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>電玩</title>
-        <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Fri, 01 Aug 2025 03:33:26 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -260,24 +296,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/puzzle/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>zelda</title>
-        <link>https://cfg.meowdev.tw/tags/zelda/</link>
-        <pubDate>Fri, 20 Jun 2025 20:46:58 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/zelda/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -962,24 +980,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/dq/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>薩爾達</title>
-        <link>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</link>
-        <pubDate>Sat, 28 Dec 2024 22:25:11 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
