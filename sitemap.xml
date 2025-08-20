@@ -2,46 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cfg.meowdev.tw/mario_kart_world_review/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch2/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch2/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-08-20T23:17:55+08:00</lastmod>
+  </url><url>
     <loc>https://cfg.meowdev.tw/zelda_wind_waker_review/</loc>
     <lastmod>2025-08-13T01:32:35+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/categories/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch2/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch2/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/zelda/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2025-08-13T01:32:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E8%96%A9%E7%88%BE%E9%81%94/</loc>
     <lastmod>2025-08-13T01:32:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/%E8%96%A9%E7%88%BE%E9%81%94/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-08-13T01:32:35+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-08-13T01:32:35+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/elliot_tales_demo_review/</loc>
@@ -356,9 +365,6 @@
     <loc>https://cfg.meowdev.tw/mlrpg_brothership_review/</loc>
     <lastmod>2024-11-24T00:59:49+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario/</loc>
-    <lastmod>2024-11-24T00:59:49+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/rpg/</loc>
     <lastmod>2024-11-24T00:59:49+08:00</lastmod>
   </url><url>
@@ -603,9 +609,6 @@
     <lastmod>2023-08-01T01:37:39+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/mario_kart_8dx_review_part2/</loc>
-    <lastmod>2023-07-15T17:58:07+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/mario_kart/</loc>
     <lastmod>2023-07-15T17:58:07+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/mario_kart/</loc>

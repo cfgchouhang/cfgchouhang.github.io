@@ -13,11 +13,65 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Wed, 13 Aug 2025 01:32:35 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 23:17:55 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 瑪利歐賽車世界，全方位的賽車跑圖遊戲</title>
+        <link>https://cfg.meowdev.tw/mario_kart_world_review/</link>
+        <pubDate>Wed, 20 Aug 2025 23:17:55 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Wed, 20 Aug 2025 23:17:55 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/mario_kart_world_review/</guid>
+        <description>瑪利歐賽車世界，老任十年磨一劍的作品，延續開賽車丟道具的趣味精髓，添加跳躍與攀牆滑軌的新機制，並從賽道構築出探索味與沉浸感兼具的遊戲世界，是</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/mario_kart_world_review/2025071321594500-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+            
+              <category>mario</category>
+            
+          
+            
+              <category>mario_kart</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 風之律動，乘風破浪、航海巡島的薩爾達傳說</title>
@@ -5647,64 +5701,6 @@
           
             
               <category>電玩</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 令人沉浸的 2D 探索，好玩又很難的空洞騎士(Hollow Knight)</title>
-        <link>https://cfg.meowdev.tw/review_hollow_knight/</link>
-        <pubDate>Thu, 13 Sep 2018 08:15:55 +0000</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Thu, 13 Sep 2018 08:15:55 +0000</atom:modified>
-        <guid>https://cfg.meowdev.tw/review_hollow_knight/</guid>
-        <description>簡述 空洞騎士是一款 2D 探索動作遊戲。地圖設計很優秀，激發探索欲和迷路感；以蟲與巢為設定，故事引人入勝；操作手感流暢，Boss 動作豐富，挑戰性十</description>
-        
-        <dc:creator>Peter</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/2018/09/518442-H2-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-            
-              <category>metroidvania</category>
-            
-          
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>indie</category>
             
           
         
