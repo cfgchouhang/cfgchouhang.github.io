@@ -13,11 +13,65 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Thu, 28 Aug 2025 01:47:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 01:32:28 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>卡比探索發現&#43;星耀世界，簡介與感想</title>
+        <link>https://cfg.meowdev.tw/kirby_discovery_review/</link>
+        <pubDate>Wed, 03 Sep 2025 01:32:28 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Wed, 03 Sep 2025 01:32:28 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/kirby_discovery_review/</guid>
+        <description>就我玩過的卡比闖關作品來說，初次 3D 化的探索發現，個人覺得是最好玩的卡比遊戲；NS2 版本添加的新內容，雖然很短，仍然有趣，趁這次機會，把三年前</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/kirby_discovery_review/2025082909113400-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+            
+              <category>kirby</category>
+            
+          
+            
+              <category>3d-platform</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 人中之龍0，硬漢真情，遊玩感想</title>
@@ -5579,72 +5633,6 @@
           
             
               <category>indie</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 黑暗靈魂1，魂類開創者(PS4 重製版)</title>
-        <link>https://cfg.meowdev.tw/darksouls_review/</link>
-        <pubDate>Fri, 15 Oct 2021 01:00:06 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Fri, 15 Oct 2021 01:00:06 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/darksouls_review/</guid>
-        <description>黑魂是我今年印象最深刻的遊戲，利用下班和放假的時間，將所有 Boss &amp;amp; DLC 破完，前後玩了一個多月。遊戲中有諸多經典的機制，成為日後許多遊戲借鑑參考的典</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/darksouls/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>黑魂</category>
-            
-          
-            
-              <category>ps</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>魂類</category>
-            
-          
-            
-              <category>from software</category>
-            
-          
-        
-        
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>黑魂</category>
-            
-          
-            
-              <category>ps</category>
-            
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>魂類</category>
             
           
         
