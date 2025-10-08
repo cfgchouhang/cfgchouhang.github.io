@@ -13,11 +13,73 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Wed, 01 Oct 2025 00:42:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 02:59:30 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] F-Zero GX，任天堂冷門科幻賽車遊戲</title>
+        <link>https://cfg.meowdev.tw/fzero_gx_review/</link>
+        <pubDate>Wed, 08 Oct 2025 02:59:30 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Wed, 08 Oct 2025 02:59:30 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/fzero_gx_review/</guid>
+        <description>F-Zero 系列是任天堂的賽車遊戲，有著粗獷的美式風格，操作困難而且學習曲線超陡峭，但那&amp;quot;爽快&amp;quot;感，是瑪利歐賽車難以匹敵的。 最近爽</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/fzero_gx_review/2025100710530900-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+            
+              <category>fzero</category>
+            
+          
+            
+              <category>retro</category>
+            
+          
+            
+              <category>nso</category>
+            
+          
+            
+              <category>ngc</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 絲之歌，令人沉浸與感動的神作，破關感想</title>
@@ -5547,60 +5609,6 @@
           
             
               <category>mario_kart</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜記] 收藏的樂趣之一：遊戲包裝與手冊</title>
-        <link>https://cfg.meowdev.tw/game_manual_talk/</link>
-        <pubDate>Sat, 23 Jul 2022 01:03:59 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sat, 23 Jul 2022 01:03:59 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/game_manual_talk/</guid>
-        <description>前言 我今年剛滿三十，從小一開始玩早期流行的 N合1 盜版卡匣，第一款有印象的遊戲就是紅白機上的橫版馬利歐第一代。大學時，玩到 3DS 的薩爾達時之笛後，</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/game_manual_talk/10.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>gamecube</category>
-            
-          
-            
-              <category>n64</category>
-            
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>收藏</category>
-            
-          
-        
-        
-          
-            
-              <category>雜記</category>
-            
-          
-            
-              <category>電玩</category>
             
           
         
