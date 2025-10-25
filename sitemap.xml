@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/aom_japan_review/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/pokemon_legends_za_review/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/pokemon/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2025-10-25T18:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/aom_japan_review/</loc>
     <lastmod>2025-10-14T22:24:27+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/pc/</loc>
@@ -14,31 +47,10 @@
     <loc>https://cfg.meowdev.tw/categories/pc/</loc>
     <lastmod>2025-10-14T22:24:27+08:00</lastmod>
   </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
     <loc>https://cfg.meowdev.tw/tags/rts/</loc>
     <lastmod>2025-10-14T22:24:27+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/rts/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2025-10-14T22:24:27+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2025-10-14T22:24:27+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/fzero_gx_review/</loc>
@@ -69,12 +81,6 @@
     <lastmod>2025-10-01T00:42:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/metroidvania/</loc>
-    <lastmod>2025-10-01T00:42:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2025-10-01T00:42:11+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
     <lastmod>2025-10-01T00:42:11+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/dk_bananza_review/</loc>
@@ -162,9 +168,6 @@
     <lastmod>2025-07-09T01:10:23+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/pokemon_legends_arceus_review/</loc>
-    <lastmod>2025-07-03T01:30:01+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/pokemon/</loc>
     <lastmod>2025-07-03T01:30:01+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/captain_toad_review/</loc>

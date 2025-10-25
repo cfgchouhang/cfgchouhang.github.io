@@ -13,11 +13,61 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Tue, 14 Oct 2025 22:24:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 18:27:29 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 寶可夢傳說 Z-A，依然好玩的實驗新作，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/pokemon_legends_za_review/</link>
+        <pubDate>Sat, 25 Oct 2025 18:27:29 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 25 Oct 2025 18:27:29 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/pokemon_legends_za_review/</guid>
+        <description>整體來說挺好玩，遊戲節奏快，25小時左右能通關，對普通、輕度、單機向寶可夢玩家來說(我)，體驗不賴；對習慣傳統玩法的玩家來說，倒是需要熟悉一</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/pokemon_legends_za_review/2025102417545500-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>pokemon</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 神話世紀 DLC，日本戰役，遊玩感想</title>
@@ -5627,60 +5677,6 @@
           
             
               <category>pikmin</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] NDS 風格，精緻輕鬆的小品 A Short Hike</title>
-        <link>https://cfg.meowdev.tw/a_short_hike_review/</link>
-        <pubDate>Wed, 26 Aug 2020 00:01:31 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 26 Aug 2020 00:01:31 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/a_short_hike_review/</guid>
-        <description>這是近來玩過最輕鬆舒壓，又帶有療癒跟樂趣的一款小品遊戲。從一年多前看到這款遊戲的 demo trailer，就很期待他能上 switch。想不到上次的 任</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/ash/walk.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
             
           
         
