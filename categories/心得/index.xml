@@ -13,11 +13,65 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 25 Oct 2025 18:27:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 22:12:45 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 小小機器人，快樂打雜記，Gamecube 的冷門傑作</title>
+        <link>https://cfg.meowdev.tw/chibi_robo_review/</link>
+        <pubDate>Sat, 01 Nov 2025 22:12:45 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sat, 01 Nov 2025 22:12:45 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/chibi_robo_review/</guid>
+        <description>小小機器人，原名 Chibi-Robo，我喜歡直接念奇比蘿蔔，是任天堂冷門但很有趣的一款互動式探索遊戲。在 NSO 會員懷舊陣容以龜速更新的頻率下，倒</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/chibi_robo_review/2025110118543400-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+            
+              <category>nso</category>
+            
+          
+            
+              <category>ngc</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 寶可夢傳說 Z-A，依然好玩的實驗新作，遊玩感想</title>
@@ -5623,60 +5677,6 @@
           
             
               <category>nintendo</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 皮克敏系列介紹</title>
-        <link>https://cfg.meowdev.tw/pikmins_review/</link>
-        <pubDate>Sun, 11 Oct 2020 02:21:13 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sun, 11 Oct 2020 02:21:13 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/pikmins_review/</guid>
-        <description>更新(2023/06) 六月 ND 帶來皮克敏四代更多展示，以及一二代移植。至此，一到四代通通能在 switch 遊玩，身為皮克敏粉絲，實在太幸福了！在任天堂眾多</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/pikmin/pikmin4.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>pikmin</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>pikmin</category>
             
           
         
