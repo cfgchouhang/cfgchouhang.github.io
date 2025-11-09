@@ -13,11 +13,69 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 01 Nov 2025 22:12:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 17:30:46 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 路易吉洋樓1，陰森逗趣的鬼屋歷險記</title>
+        <link>https://cfg.meowdev.tw/luigi_mansion1_review/</link>
+        <pubDate>Sun, 09 Nov 2025 17:30:46 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 09 Nov 2025 17:30:46 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/luigi_mansion1_review/</guid>
+        <description>取代瑪利歐大哥，由膽小可愛的綠帽小弟路易吉獨挑大樑，探索陰森洋樓，手握吸塵器，抓猴抓鬼！帶有動作性與解謎要素的全新玩法，做為新主機 Gamecube 的首發作</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/luigi_mansion1_review/ghost.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+            
+              <category>gc</category>
+            
+          
+            
+              <category>luigi_mansion</category>
+            
+          
+            
+              <category>nso</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 小小機器人，快樂打雜記，Gamecube 的冷門傑作</title>
@@ -5615,68 +5673,6 @@
           
             
               <category>ps4</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 陽光瑪利歐，南洋度假島嶼上的冒險</title>
-        <link>https://cfg.meowdev.tw/mario_sunshine_review/</link>
-        <pubDate>Sun, 01 Nov 2020 00:54:35 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sun, 01 Nov 2020 00:54:35 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/mario_sunshine_review/</guid>
-        <description>前言 今年我將 64DS 和銀河2 破完，算是將所有 3D 瑪利歐玩過了一輪。GC 原版的陽馬斷斷續續地玩了 1/3 後，得知 3D 冷飯合集將發售，索性等 Switch 版移植。經過一個月</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/sunshine/cover.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>mario</category>
-            
-          
-            
-              <category>nintendo</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>mario</category>
-            
-          
-            
-              <category>nintendo</category>
             
           
         
