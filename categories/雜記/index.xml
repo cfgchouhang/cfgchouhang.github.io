@@ -13,11 +13,57 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 11 Jul 2025 02:45:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:26:40 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E9%9B%9C%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[雜談] 任天堂本家 IP 一覽</title>
+        <link>https://cfg.meowdev.tw/nintendo_games_review/</link>
+        <pubDate>Tue, 23 Dec 2025 11:26:40 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Tue, 23 Dec 2025 11:26:40 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/nintendo_games_review/</guid>
+        <description>分享過收藏(中古遊戲收藏)，回顧過主機(回顧任天堂歷代主機)，這篇就來聊聊老任的遊戲 IP 吧。對&amp;quot;任&amp;quot;一作品有回憶、有共鳴、</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/nintendo_games_review/all.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[雜記] Switch2，Turn on！</title>

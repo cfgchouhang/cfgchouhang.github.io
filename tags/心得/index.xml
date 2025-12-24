@@ -13,11 +13,57 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 19 Dec 2025 22:31:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:26:40 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[雜談] 任天堂本家 IP 一覽</title>
+        <link>https://cfg.meowdev.tw/nintendo_games_review/</link>
+        <pubDate>Tue, 23 Dec 2025 11:26:40 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Tue, 23 Dec 2025 11:26:40 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/nintendo_games_review/</guid>
+        <description>分享過收藏(中古遊戲收藏)，回顧過主機(回顧任天堂歷代主機)，這篇就來聊聊老任的遊戲 IP 吧。對&amp;quot;任&amp;quot;一作品有回憶、有共鳴、</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/nintendo_games_review/all.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 飛行俱樂部64，有趣的模擬飛行老遊戲</title>
@@ -5579,68 +5625,6 @@
           
             
               <category>switch</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] Cuphead 高難度的復古動畫風&#43;動作射擊遊戲</title>
-        <link>https://cfg.meowdev.tw/cuphead_review/</link>
-        <pubDate>Sat, 07 Jan 2023 01:59:05 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sat, 07 Jan 2023 01:59:05 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/cuphead_review/</guid>
-        <description>Cuphead(茶杯頭) 是一款美術風格十分獨特，好玩但很困難的遊戲，給人滿滿早期迪士尼動畫的相似感；不過更精確地說是橡皮管動畫風格，有興趣的</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/cuphead/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-            
-              <category>action</category>
-            
-          
-            
-              <category>run-and-gun</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
             
           
         

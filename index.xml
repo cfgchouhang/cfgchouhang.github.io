@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Fri, 19 Dec 2025 22:31:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:26:40 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,52 @@
       
       
 
+      
+      <item>
+        <title>[雜談] 任天堂本家 IP 一覽</title>
+        <link>https://cfg.meowdev.tw/nintendo_games_review/</link>
+        <pubDate>Tue, 23 Dec 2025 11:26:40 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Tue, 23 Dec 2025 11:26:40 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/nintendo_games_review/</guid>
+        <description>分享過收藏(中古遊戲收藏)，回顧過主機(回顧任天堂歷代主機)，這篇就來聊聊老任的遊戲 IP 吧。對&amp;quot;任&amp;quot;一作品有回憶、有共鳴、</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/nintendo_games_review/all.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>雜記</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 飛行俱樂部64，有趣的模擬飛行老遊戲</title>
@@ -5525,64 +5571,6 @@
         
         <dc:creator>Pnerd</dc:creator>
         <media:content url="https://cfg.meowdev.tw//images/chants_sennaar/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-            
-              <category>puzzle</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 推理燒腦神作，奧伯拉丁的回歸(Return of the Obra Dinn)</title>
-        <link>https://cfg.meowdev.tw/obra_dinn_review/</link>
-        <pubDate>Wed, 20 Sep 2023 00:46:24 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Wed, 20 Sep 2023 00:46:24 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/obra_dinn_review/</guid>
-        <description>這是一款非常優秀、獨特的推理解謎遊戲，採用第一人稱視角。我第一次玩這種類型，沒有查看任何攻略，約 17 個小時破完，燒腦程度不是蓋的，非常過癮離成</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/obra_dinn/cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
