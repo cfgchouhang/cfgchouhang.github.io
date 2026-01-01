@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Tue, 23 Dec 2025 11:26:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 17:26:54 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,60 @@
       
       
 
+      
+      <item>
+        <title>[心得] Cast n Chill，美麗的釣魚小品</title>
+        <link>https://cfg.meowdev.tw/cast_n_chill_review/</link>
+        <pubDate>Thu, 01 Jan 2026 17:26:54 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Thu, 01 Jan 2026 17:26:54 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/cast_n_chill_review/</guid>
+        <description>選定角色造型、狗狗種類，划船出發去釣魚；這是個主打美術畫風的釣魚小品，遊戲性低，亮點在於美不勝收的像素場景，買藝術品送遊戲的概念。 Cast n Chill ，來</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/cast_n_chill_review/2026010116211700-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>indie</category>
+            
+          
+            
+              <category>chill</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[雜談] 任天堂本家 IP 一覽</title>
@@ -5554,64 +5608,6 @@
           
             
               <category>pikmin</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 獨特雋永的語言解謎遊戲，Chants of Sennaar</title>
-        <link>https://cfg.meowdev.tw/chants_of_sennaar_review/</link>
-        <pubDate>Tue, 10 Oct 2023 17:18:35 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Tue, 10 Oct 2023 17:18:35 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/chants_of_sennaar_review/</guid>
-        <description>這是一款以翻譯語言進行解謎的遊戲，機制簡單直覺，延伸出的解謎花樣繁多；每次成功破譯的瞬間，讓人有種「我真聰明、原來如此」的強烈成就感。 遊戲的</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/chants_sennaar/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-            
-              <category>puzzle</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
             
           
         
