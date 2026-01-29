@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cfg.meowdev.tw/dq7_demo_review/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
+    <loc>https://cfg.meowdev.tw/switch_revisited/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/categories/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/posts/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/talk/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
+    <lastmod>2026-01-29T22:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://cfg.meowdev.tw/dq7_demo_review/</loc>
     <lastmod>2026-01-24T22:55:06+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/dq/</loc>
     <lastmod>2026-01-24T22:55:06+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/jrpg/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/posts/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/switch/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/switch/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</loc>
-    <lastmod>2026-01-24T22:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/</loc>
     <lastmod>2026-01-24T22:55:06+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/wario_world_review/</loc>
@@ -453,9 +459,6 @@
     <lastmod>2024-11-02T18:19:21+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/game_collections_talk/</loc>
-    <lastmod>2024-10-26T19:59:33+08:00</lastmod>
-  </url><url>
-    <loc>https://cfg.meowdev.tw/tags/talk/</loc>
     <lastmod>2024-10-26T19:59:33+08:00</lastmod>
   </url><url>
     <loc>https://cfg.meowdev.tw/tags/%E8%B6%85%E4%BB%BB/</loc>
