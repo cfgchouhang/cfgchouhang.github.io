@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 16 May 2026 12:10:43 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:37:56 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,52 @@
       
       
 
+      
+      <item>
+        <title>[心得] 印第安納瓊斯:古老之圈，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/indiana_jones_review/</link>
+        <pubDate>Sun, 24 May 2026 12:37:56 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 24 May 2026 12:37:56 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/indiana_jones_review/</guid>
+        <description>電影印第安納瓊斯，五集之中我看過前四集，是個經典的公路式尋寶冒險片；主角是個考古學家，皮衣、牛仔帽、甩鞭功夫一流是他的個人標誌。這是我第一次</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/indiana_jones_review/2026052022412600-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 密特羅德:零點任務，GBA 傑作，遊玩感想</title>
@@ -5510,56 +5556,6 @@
           
             
               <category>3ds</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[心得] 最後營火(The Last Campfire)，點燃希望火苗的解謎小品</title>
-        <link>https://cfg.meowdev.tw/the_last_campfire_review/</link>
-        <pubDate>Sun, 21 Jul 2024 00:37:38 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Sun, 21 Jul 2024 00:37:38 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/the_last_campfire_review/</guid>
-        <description>這是一款美術風格舒服、故事帶點詩意、可輕鬆遊玩的解謎小品遊戲。如果平常有在玩解謎遊戲，大概六小時左右即可破關。 玩家操控一個名為餘燼，帶著披風</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/the_last_campfire_review/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>indie</category>
-            
-          
-        
-        
-          
-            
-              <category>心得</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
             
           
         

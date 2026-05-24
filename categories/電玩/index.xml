@@ -13,11 +13,57 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sat, 16 May 2026 12:10:43 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:37:56 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/categories/%E9%9B%BB%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>[心得] 印第安納瓊斯:古老之圈，遊玩感想</title>
+        <link>https://cfg.meowdev.tw/indiana_jones_review/</link>
+        <pubDate>Sun, 24 May 2026 12:37:56 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        <atom:modified>Sun, 24 May 2026 12:37:56 +0800</atom:modified>
+        <guid>https://cfg.meowdev.tw/indiana_jones_review/</guid>
+        <description>電影印第安納瓊斯，五集之中我看過前四集，是個經典的公路式尋寶冒險片；主角是個考古學家，皮衣、牛仔帽、甩鞭功夫一流是他的個人標誌。這是我第一次</description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        <media:content url="https://cfg.meowdev.tw//images/indiana_jones_review/2026052022412600-s.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+          
+            
+              <category>心得</category>
+            
+          
+            
+              <category>電玩</category>
+            
+          
+            
+              <category>switch2</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[心得] 密特羅德:零點任務，GBA 傑作，遊玩感想</title>
@@ -5483,56 +5529,6 @@
           
             
               <category>薩爾達</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>[雜談] 路易吉洋樓，抓鬼大師的冒險，系列簡介與感想</title>
-        <link>https://cfg.meowdev.tw/luigi_mansion_review/</link>
-        <pubDate>Fri, 05 Jul 2024 22:46:43 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        <atom:modified>Fri, 05 Jul 2024 22:46:43 +0800</atom:modified>
-        <guid>https://cfg.meowdev.tw/luigi_mansion_review/</guid>
-        <description>來一張實體收藏合照。你說為什麼有 RPG？因為封面滿滿的路易吉很可愛，就一起放進來。 簡介 在尚未中文化之前，俗稱路易吉鬼屋；顧名思義，就是路易吉</description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        <media:content url="https://cfg.meowdev.tw//images/luigi_mansion_review/21.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
-            
-          
-            
-              <category>luigi_mansion</category>
-            
-          
-            
-              <category>action</category>
-            
-          
-        
-        
-          
-            
-              <category>雜談</category>
-            
-          
-            
-              <category>電玩</category>
-            
-          
-            
-              <category>switch</category>
             
           
         
