@@ -13,16 +13,34 @@
     <language>en</language>
     <managingEditor>peter_chou@openfind.com.tw (Pnerd)</managingEditor>
     <webMaster>peter_chou@openfind.com.tw (Pnerd)</webMaster>
-    <lastBuildDate>Sun, 24 May 2026 12:37:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:56:49 +0800</lastBuildDate>
     
         <atom:link href="https://cfg.meowdev.tw/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>2d-platform</title>
+        <link>https://cfg.meowdev.tw/tags/2d-platform/</link>
+        <pubDate>Sat, 20 Jun 2026 01:56:49 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/2d-platform/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>switch2</title>
         <link>https://cfg.meowdev.tw/tags/switch2/</link>
-        <pubDate>Sun, 24 May 2026 12:37:56 +0800</pubDate>
+        <pubDate>Sat, 20 Jun 2026 01:56:49 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/switch2/</guid>
@@ -38,9 +56,27 @@
       </item>
       
       <item>
+        <title>yoshi</title>
+        <link>https://cfg.meowdev.tw/tags/yoshi/</link>
+        <pubDate>Sat, 20 Jun 2026 01:56:49 +0800</pubDate>
+        <author>peter_chou@openfind.com.tw (Pnerd)</author>
+        
+        <guid>https://cfg.meowdev.tw/tags/yoshi/</guid>
+        <description></description>
+        
+        <dc:creator>Pnerd</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>心得</title>
         <link>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sun, 24 May 2026 12:37:56 +0800</pubDate>
+        <pubDate>Sat, 20 Jun 2026 01:56:49 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E5%BF%83%E5%BE%97/</guid>
@@ -58,7 +94,7 @@
       <item>
         <title>電玩</title>
         <link>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</link>
-        <pubDate>Sun, 24 May 2026 12:37:56 +0800</pubDate>
+        <pubDate>Sat, 20 Jun 2026 01:56:49 +0800</pubDate>
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/%E9%9B%BB%E7%8E%A9/</guid>
@@ -296,24 +332,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/horror/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>2d-platform</title>
-        <link>https://cfg.meowdev.tw/tags/2d-platform/</link>
-        <pubDate>Wed, 01 Apr 2026 01:57:31 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/2d-platform/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
@@ -1790,24 +1808,6 @@
         <author>peter_chou@openfind.com.tw (Pnerd)</author>
         
         <guid>https://cfg.meowdev.tw/tags/games/</guid>
-        <description></description>
-        
-        <dc:creator>Pnerd</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>ps4</title>
-        <link>https://cfg.meowdev.tw/tags/ps4/</link>
-        <pubDate>Sun, 28 Mar 2021 10:44:19 +0800</pubDate>
-        <author>peter_chou@openfind.com.tw (Pnerd)</author>
-        
-        <guid>https://cfg.meowdev.tw/tags/ps4/</guid>
         <description></description>
         
         <dc:creator>Pnerd</dc:creator>
